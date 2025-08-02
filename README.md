@@ -1,4 +1,4 @@
-# Capstone Project - Network Design and Emulation for a PCI-DSS Compliant Hadoop Cluster Infrastructure
+# Network Design and Emulation for a PCI-DSS Compliant Hadoop Cluster Infrastructure
 
 Overview
 
