@@ -21,7 +21,7 @@ Cisco Modeling Labs (CML) served as the emulation environment for this project. 
 Research and Citations
 
 References
-Ahamed, M. T., Venkatesh, B., & Samanta, D. (2018). Impact of virtual hadoop cluster
+- Ahamed, M. T., Venkatesh, B., & Samanta, D. (2018). Impact of virtual hadoop cluster
 scalability on the performance of big data. International Journal of Computer Applications,
 182(38), 25–32. https://doi.org/10.5120/ijca2018917204
 BitsPlease. (2020, August 25). VXLAN BGP EVPN- L2VNI (Episode 1) [Video]. YouTube.
